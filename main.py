@@ -78,6 +78,7 @@ class SavePicture:
         else:
             for elems in tqdm(self.create_dogs_dict()[breed_dog]):
                 sub_breed = f'{breed_dog}-{elems}'
+                print(sub_breed)
                 url_photos_breed = f'{self.create_dogs_urls()[sub_breed]}/random'
                 breed_photo = requests.get(url_photos_breed)
                 photo_url = breed_photo.json()['message']

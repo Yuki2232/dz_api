@@ -1,23 +1,470 @@
-{
-    "hound-afghan": [
-        "n02088094_357.jpg"
-    ],
-    "hound-basset": [
-        "n02088238_10129.jpg"
-    ],
-    "hound-blood": [
-        "n02088466_9237.jpg"
-    ],
-    "hound-english": [
-        "n02089973_1106.jpg"
-    ],
-    "hound-ibizan": [
-        "n02091244_1917.jpg"
-    ],
-    "hound-plott": [
-        "hhh_plott002.jpg"
-    ],
-    "hound-walker": [
-        "n02089867_1912.jpg"
-    ]
-}
+[
+    {
+        "hound": "hound-afghan_n02088094_3630.jpg"
+    },
+    {
+        "hound": "hound-basset_n02088238_13608.jpg"
+    },
+    {
+        "hound": "hound-blood_n02088466_9058.jpg"
+    },
+    {
+        "hound": "hound-english_n02089973_3933.jpg"
+    },
+    {
+        "hound": "hound-ibizan_n02091244_4914.jpg"
+    },
+    {
+        "hound": "hound-plott_hhh-23456.jpg"
+    },
+    {
+        "hound": "hound-walker_n02089867_335.jpg"
+    },
+    {
+        "boxer": "boxer_28082007167-min.jpg"
+    },
+    {
+        "boxer": "boxer_IMG_0002.jpg"
+    },
+    {
+        "boxer": "boxer_IMG_3394.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1003.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_10229.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1031.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1072.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_10774.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_10901.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_10939.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11001.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11032.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1104.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11074.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11122.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11154.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1159.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11616.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11687.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_117.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11807.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_11875.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_122.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_12232.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_125.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_12738.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_12739.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_13340.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_13526.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1353.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1355.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1357.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1367.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_13738.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_13839.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_13898.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_14074.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1410.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_14112.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1418.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_14659.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_14719.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_149.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1511.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_15432.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1560.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_15702.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1571.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1575.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1619.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1626.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1654.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1672.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1675.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1690.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1748.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1757.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1775.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1859.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_1956.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2007.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2056.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2106.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2355.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2360.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2367.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2432.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2482.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2526.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2608.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2653.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2670.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_268.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2718.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2723.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2740.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2741.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2791.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2796.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2815.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2831.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2917.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_2953.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3028.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3162.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3236.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3258.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3269.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3365.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3395.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3400.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3412.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3547.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3557.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3669.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_3899.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_395.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4002.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4042.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4076.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4119.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4158.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4440.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4486.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4681.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4730.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_485.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4865.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_4989.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5043.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_522.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5266.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_530.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5301.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_540.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5423.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5599.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5614.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5753.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_5977.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_6008.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_625.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_6295.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_6418.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_6429.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_6583.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_69.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_7259.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_7319.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_7431.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_7456.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_770.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_78.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_7853.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_813.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_836.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_849.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_8739.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_8969.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_9045.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_9076.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_922.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_926.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_931.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_959.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_9724.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_9778.jpg"
+    },
+    {
+        "boxer": "boxer_n02108089_995.jpg"
+    }
+]
