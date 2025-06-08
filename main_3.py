@@ -14,8 +14,9 @@ class SaveToYD:
         #Создание папки на яндекс диске
         url_ya = 'https://cloud-api.yandex.net/v1/disk/resources'
         params = {'path' : f'{folder_name}'}
-        headers = {"Authorization": f'OAuth {self.token}', 'Content-Type': 'application/json'}
-        requests.put(url_ya, params = params, headers = headers)
+        headers = {"Authorization": f'OAuth {self.token}'}
+        resp = requests.put(url_ya, params = params, headers = headers)
+        print(resp.status_code)
 
  
     def folders_on_disk(self):
@@ -25,8 +26,6 @@ class SaveToYD:
         params = {'path' : '/'}
         headers = {"Authorization": f'OAuth {self.token}', 'Content-Type': 'application/json'}
         resp = requests.get(url, params=params, headers=headers)
-        print(resp.status_code)
-        print(resp.json())
         for elems in resp.json()['_embedded']['items']:
             return_list.append(elems['name'])
         return return_list
@@ -89,7 +88,7 @@ class SaveToYD:
                     }
                     headers = {"Authorization": f'OAuth {self.token}'}
                     requests.post(url, params=params, headers=headers)
-                    self.lst_photo.append({breed : f"{url_photo.split('/')[-2]}_{url_photo.split('/')[-1]}"})
+                    self.lst_photo.append({'file_name' : f"{url_photo.split('/')[-2]}_{url_photo.split('/')[-1]}"})
                     
             else:
                 for subbreed in tqdm(dogs_dict[breed]):
@@ -103,7 +102,7 @@ class SaveToYD:
                     }
                     headers = {"Authorization": f'OAuth {self.token}'}
                     requests.post(url, params=params, headers=headers)
-                    self.lst_photo.append({breed : f"{resp.json()['message'].split('/')[-2]}_{resp.json()['message'].split('/')[-1]}"})
+                    self.lst_photo.append({'file_name' : f"{resp.json()['message'].split('/')[-2]}_{resp.json()['message'].split('/')[-1]}"})
         with open('info_downloads.json', 'w', encoding='utf-8') as f:
             json.dump(self.lst_photo, f, ensure_ascii=False, indent=4, sort_keys=True) 
 
@@ -113,7 +112,5 @@ config.read('config.ini', encoding = 'utf-8')
 TOKEN = config['token']['token']
 
 dsk = SaveToYD(TOKEN)
-#dsk.load_photos('hound')
-#dsk.load_photos('boxer')
-dsk.create_folder('dogs')
-dsk.folders_on_disk()
+dsk.load_photos('hound')
+dsk.load_photos('boxer')
